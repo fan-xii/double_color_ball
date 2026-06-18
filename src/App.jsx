@@ -34,14 +34,6 @@ export default function App() {
   return (
     <div className="app">
       <header className="header">
-        <div className="logo-balls">
-          <div className="logo-ball red" style={{ animationDelay: '0s' }} />
-          <div className="logo-ball red" style={{ animationDelay: '0.15s' }} />
-          <div className="logo-ball red" style={{ animationDelay: '0.3s' }} />
-          <div className="logo-ball red" style={{ animationDelay: '0.45s' }} />
-          <div className="logo-ball red" style={{ animationDelay: '0.6s' }} />
-          <div className="logo-ball blue" style={{ animationDelay: '0.75s' }} />
-        </div>
         <h1>双 色 球</h1>
         <p className="subtitle">中国福利彩票 · 模拟摇奖器</p>
       </header>
